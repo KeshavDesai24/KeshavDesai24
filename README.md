@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Keshav Desai 👋</h1>
 
 <p align="center">
-Cloud DevOps Engineer in Progress | Problem Solver | Builder
+Cloud DevOps Engineer in Progress | Cloud Security Enthusiast | Problem Solver | Builder
 </p>
 
 ---
@@ -27,10 +27,10 @@ Cloud DevOps Engineer in Progress | Problem Solver | Builder
 
 - 🎓 IT Engineer focused on Cloud & DevOps
 - 🧠 Strong in Python, Linux, Networking fundamentals
-- ☁️ Working deeply with AWS, Docker, Kubernetes, GitHub Actions
+- ☁️ Working deeply with Linux, AWS, Docker, Kubernetes, GitHub Actions
 - 📊 Interested in Cloud, DevOps & System Design
 - 🔥 I build real-world projects but the more is i like to build secured and scalable infra for it
-- 📈 Preparing for Cloud DevOps roles
+- 📈 Preparing for Cloud DevOps & Cloud Security roles
 
 ---
 
@@ -52,6 +52,15 @@ Cloud DevOps Engineer in Progress | Problem Solver | Builder
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 🔐 Cloud Security
+![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/AWS_VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Security Groups](https://img.shields.io/badge/AWS_Security_Groups-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-0052CC?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![UFW](https://img.shields.io/badge/Linux_UFW-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fail2Ban](https://img.shields.io/badge/Fail2Ban-CC0000?style=for-the-badge&logo=linux&logoColor=white)
+
 ---
 
 ## 📂 Featured Projects
@@ -70,6 +79,9 @@ Cloud DevOps Engineer in Progress | Problem Solver | Builder
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeshavDesai24&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeshavDesai24&theme=tokyo-night"/>
+</p>
 ---
 
 ## 🤝 Connect With Me
