@@ -76,9 +76,8 @@ Cloud DevOps Engineer in Progress | Cloud Security Enthusiast | Problem Solver |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KeshavDesai24&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeshavDesai24&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=KeshavDesai24&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KeshavDesai24&theme=tokyo-night"/>
 </p>
