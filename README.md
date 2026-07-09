@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">I'm Keshav Desai 👋</h1>
 
 <p align="center">
-Cloud DevOps Engineer in Progress | Cloud Security Enthusiast | Problem Solver | Builder
+Cloud DevOps Engineer in Progress | Data & Tech Enthusiast
 </p>
 
 ---
@@ -29,8 +29,8 @@ Cloud DevOps Engineer in Progress | Cloud Security Enthusiast | Problem Solver |
 - 🧠 Strong in Python, Linux, Networking fundamentals
 - ☁️ Working deeply with Linux, AWS, Docker, Kubernetes, GitHub Actions
 - 📊 Interested in Cloud, DevOps & System Design
-- 🔥 I build real-world projects but the more is i like to build secured and scalable infra for it
-- 📈 Preparing for Cloud DevOps & Cloud Security roles
+- 🔥 I build real-world projects but the more is i like to build & deploy secured and scalable infra for it
+- 📈 Preparing for Cloud DevOps, Cloud Security & data roles
 
 ---
 
@@ -38,7 +38,6 @@ Cloud DevOps Engineer in Progress | Cloud Security Enthusiast | Problem Solver |
 
 ### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ⚙ Backend
@@ -51,6 +50,7 @@ Cloud DevOps Engineer in Progress | Cloud Security Enthusiast | Problem Solver |
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ### 🔐 Cloud Security
 ![IAM](https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
